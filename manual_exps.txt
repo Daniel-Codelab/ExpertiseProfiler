@@ -1,0 +1,123 @@
+-anomaly detection
+0 : Oke, Gerke : 1
+1 : Morten Dam, Jørgensen : 1
+2 : Christian, Hassager : 1
+5 : Morten, Nielsen : 1
+7 : Martin Riis, Weisbjerg : 0
+8 : Peter, Vedsted : 1
+9 : Rosario, Tumino : 1
+-augmented reality
+0 : Oke, Gerke : 0
+2 : Christian, Hassager : 0
+4 : Henrik, Kehlet : 1
+5 : Morten, Nielsen : 0
+7 : Martin Riis, Weisbjerg : 0
+-brain decoding
+0 : Oke, Gerke : 1
+9 : Rosario, Tumino : 0
+2 : Christian, Hassager : 1
+5 : Morten, Nielsen : 0
+-classification
+0 : Oke, Gerke : 1
+2 : Christian, Hassager : 1
+4 : Henrik, Kehlet : 0
+5 : Morten, Nielsen : 1
+8 : Peter, Vedsted : 1
+9 : Rosario, Tumino : 1
+-computer vision
+0 : Oke, Gerke : 1
+2 : Christian, Hassager : 1
+4 : Henrik, Kehlet : 0
+5 : Morten, Nielsen : 0
+7 : Martin Riis, Weisbjerg : 0
+8 : Peter, Vedsted : 1
+-convolutional neural networks
+0 : Oke, Gerke : 1
+2 : Christian, Hassager : 1
+4 : Henrik, Kehlet : 0
+5 : Morten, Nielsen : 1
+-data models
+0 : Oke, Gerke : 1
+1 : Morten Dam, Jørgensen : 1
+2 : Christian, Hassager : 1
+4 : Henrik, Kehlet : 0
+5 : Morten, Nielsen : 1
+7 : Martin Riis, Weisbjerg : 0
+9 : Rosario, Tumino : 0
+-machine learning
+0 : Oke, Gerke : 1
+2 : Christian, Hassager : 1
+4 : Henrik, Kehlet : 1
+5 : Morten, Nielsen : 1
+-mobility analytics
+0 : Oke, Gerke : 1
+2 : Christian, Hassager : 1
+4 : Henrik, Kehlet : 0
+5 : Morten, Nielsen : 1
+8 : Peter, Vedsted : 1
+9 : Rosario, Tumino : 1
+-object detection
+0 : Oke, Gerke : 1
+1 : Morten Dam, Jørgensen : 1
+2 : Christian, Hassager : 1
+5 : Morten, Nielsen : 0
+8 : Peter, Vedsted : 1
+-operations research
+0 : Oke, Gerke : 0
+1 : Morten Dam, Jørgensen : 0
+2 : Christian, Hassager : 0
+4 : Henrik, Kehlet : 0
+5 : Morten, Nielsen : 1
+7 : Martin Riis, Weisbjerg : 1
+-optimization
+0 : Oke, Gerke : 1
+2 : Christian, Hassager : 1
+4 : Henrik, Kehlet : 0
+5 : Morten, Nielsen : 1
+7 : Martin Riis, Weisbjerg : 1
+-pandemic prediction
+0 : Oke, Gerke : 1
+2 : Christian, Hassager : 1
+4 : Henrik, Kehlet : 0
+5 : Morten, Nielsen : 1
+7 : Martin Riis, Weisbjerg : 1
+8 : Peter, Vedsted : 1
+-populations
+0 : Oke, Gerke : 1
+2 : Christian, Hassager : 1
+5 : Morten, Nielsen : 1
+7 : Martin Riis, Weisbjerg : 1
+8 : Peter, Vedsted : 1
+9 : Rosario, Tumino : 1
+-reliability
+0 : Oke, Gerke : 1
+2 : Christian, Hassager : 1
+4 : Henrik, Kehlet : 1
+5 : Morten, Nielsen : 1
+8 : Peter, Vedsted : 1
+9 : Rosario, Tumino : 0
+-semantics
+5 : Morten, Nielsen : 0
+-simulation
+0 : Oke, Gerke : 0
+1 : Morten Dam, Jørgensen : 1
+5 : Morten, Nielsen : 1
+-species identification
+1 : Morten Dam, Jørgensen : 0
+2 : Christian, Hassager : 0
+5 : Morten, Nielsen : 1
+7 : Martin Riis, Weisbjerg : 1
+9 : Rosario, Tumino : 0
+-speech recognition
+0 : Oke, Gerke : 0
+1 : Morten Dam, Jørgensen : 0
+2 : Christian, Hassager : 0
+4 : Henrik, Kehlet : 1
+5 : Morten, Nielsen : 0
+8 : Peter, Vedsted : 0
+-virtual reality
+0 : Oke, Gerke : 0
+4 : Henrik, Kehlet : 1
+5 : Morten, Nielsen : 0
+7 : Martin Riis, Weisbjerg : 0
+8 : Peter, Vedsted : 0
