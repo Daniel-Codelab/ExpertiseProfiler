@@ -1,9 +1,9 @@
 # ITU BSc Project 2023
 
 ## Note  
-The original data in the P1_Affiliates.xlsx file that the code worked with was considered somewhat sensitive,  
-so I've replaced it with a file containing unrelated random information, RandomPeople.xlsx.  
-This random data was created so that one can still see how the code used to work,  
+The original data in the P1_Affiliates.xlsx file that the code worked with was considered somewhat sensitive, 
+so I've replaced it with a file containing unrelated random information, RandomPeople.xlsx. 
+This random data was created so that one can still see how the code used to work, 
 but it does make the generated results meaningless.  
 
 
